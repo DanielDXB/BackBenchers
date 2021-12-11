@@ -1,7 +1,7 @@
 # HackITall 2021
 https://danieldxb.github.io/World-19/
 
-// By country:
+By country:
 
 New cases today: ***
 
